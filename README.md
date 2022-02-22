@@ -1,5 +1,6 @@
 # Welcome to V1NCE72 GitHub Pages
-Owned by Vince Sabillena
+Published & Owned by Vince Sabillena
+9 Campion A
 
 You can use the [editor on GitHub](https://github.com/V1NCE72/V1NCE72.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 

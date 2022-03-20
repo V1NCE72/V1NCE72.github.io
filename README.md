@@ -1,5 +1,5 @@
-# Welcome to V1NCE72 GitHub Pages
-### Published & Owned by Vince Sabillena of 9 Campion A
+# Welcome to The Essentials by Vince
+### A One-Stop Place for Everything by Vince Sabillena of 9 Campion A
 
 You can use the [editor on GitHub](https://github.com/V1NCE72/V1NCE72.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 

@@ -1,10 +1,12 @@
 # Welcome to Essentials by Vince
 ### Everything You Need to Know About Vince Sabillena of 9 Campion A
+------------------------------------------------------------------------------------------------------------------------
 
 [![In Search of True Change](https://img.youtube.com/vi/TzVxh36N_2g/0.jpg)](https://www.youtube.com/watch?v=TzVxh36N_2g)
 
 This is just a snippet to what you can find in [Tales By Vince](https://sites.google.com/gbox.adnu.edu.ph/talesbyvince/welcome)!
-But first, 
+
+However, there's more to see here. Let's begin.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 

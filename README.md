@@ -7,7 +7,7 @@
 This is just a snippet to what you can find in [Tales By Vince](https://sites.google.com/gbox.adnu.edu.ph/talesbyvince/welcome)!
 
 However, there's more to see here. Let's begin.
-___
+---
 
 Hi! My name is **Vincent Gerard B. Sabillena** from 9 - Campion A, a student of Ateneo de Naga University Junior High School. **Essentials by Vince** is a get-to-know-me page wherein you can have glimpses of my life through this E-Portfolio. Visit this website before you head on to Tales By Vince.
 
@@ -34,7 +34,7 @@ My dream is to become a doctor (cardiologist) to help others especially those wh
 You can find me through:
 - [Facebook](https://www.facebook.com/vincentgerard.sabillena)
 - [GBox](vgsabillena@gbox.adnu.edu.ph)
-
+---
 For the latest and greatest information on Computer 9, go check Sir Gain's Website:
 - [Sir Gain's Website](https://641n.github.io/computer-9/)
 

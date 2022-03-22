@@ -32,14 +32,14 @@ My dream is to become a doctor (cardiologist) to help others especially those wh
 
 
 You can find me through:
--[Facebook](https://www.facebook.com/vincentgerard.sabillena)
--[GBox](vgsabillena@gbox.adnu.edu.ph)
+- [Facebook](https://www.facebook.com/vincentgerard.sabillena)
+- [GBox](vgsabillena@gbox.adnu.edu.ph)
 
 For the latest and greatest information on Computer 9, go check Sir Gain's Website:
-[Sir Gain's Website](https://641n.github.io/computer-9/)
+- [Sir Gain's Website](https://641n.github.io/computer-9/)
 
 Check Ateneo de Naga Junior High School as well:
-[Ateneo de Naga University Junior High School](https://www.facebook.com/adnujhs)
+- [Ateneo de Naga University Junior High School](https://www.facebook.com/adnujhs)
 ![40467672_2049462738701117_2357804537172983808_n](https://user-images.githubusercontent.com/99950121/159443111-4b1ae8bb-d96f-4439-852f-e6251f52025b.jpg)
 
 All of these you can find and more in [Tales By Vince](https://sites.google.com/gbox.adnu.edu.ph/talesbyvince/welcome) so be sure to check it out!

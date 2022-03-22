@@ -9,7 +9,7 @@ This is just a snippet to what you can find in [Tales By Vince](https://sites.go
 However, there's more to see here. Let's begin.
 ___
 
-Hi! My name is **Vincent Gerard B. Sabillena** from 9 - Campion A. **Essentials by Vince** is a get-to-know-me page wherein you can have glimpses of my life through this E-Portfolio. Visit this website before you head on to Tales By Vince.
+Hi! My name is **Vincent Gerard B. Sabillena** from 9 - Campion A, a student of Ateneo de Naga University Junior High School. **Essentials by Vince** is a get-to-know-me page wherein you can have glimpses of my life through this E-Portfolio. Visit this website before you head on to Tales By Vince.
 
 ### First, the Basics and my Interests:
 - I was born on March 1, 2007 in Mother Seton Hospital. Now, I am 15 years old.
